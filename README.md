@@ -35,3 +35,8 @@ Simply check all these objects properties to get the data from the file.
 
 ## Code construction
 
+VideoStream, AudioStream, TextStream and MenuStream objects are built on a hierarchy basis using MediaStream and Stream objects. GeneralInfo is built on a hierarchy to Stream object.
+
+This allows common properties to be declared only once. Here is the class diagram:
+
+![Class Diagram](https://raw.githubusercontent.com/sierramike/ZM.Media.Info/master/classdiagram.PNG)
