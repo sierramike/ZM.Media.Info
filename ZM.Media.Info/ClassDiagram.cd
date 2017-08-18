@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ZM.Media.Info.AudioStream" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>AudioStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZM.Media.Info.VideoStream" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABACAAAAAIAAAYEAAAIAAAAAAAEAIAAAAAAU=</HashCode>
+      <FileName>VideoStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZM.Media.Info.TextStream" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZM.Media.Info.MenuStream" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MenuStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZM.Media.Info.MediaStream" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAQAAACAABAEAAAAAABAACIBABAACAQAAAACAA=</HashCode>
+      <FileName>MediaStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZM.Media.Info.Stream" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAIASAAAgMAEQQSCIQQAAAgABBUBCAAAEAIYAIA=</HashCode>
+      <FileName>Stream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZM.Media.Info.GeneralStream" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAAAABAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneralStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

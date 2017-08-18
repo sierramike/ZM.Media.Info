@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZM.Media.Info", "ZM.Media.Info\ZM.Media.Info.csproj", "{DD1E6D58-02CA-4F8C-A0B1-9B7174A0B6AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZM.Media.Info.WinTest", "ZM.Media.Info.WinTest\ZM.Media.Info.WinTest.csproj", "{71018517-0C21-4CD0-8830-1A4AF5E3A2EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1E6D58-02CA-4F8C-A0B1-9B7174A0B6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1E6D58-02CA-4F8C-A0B1-9B7174A0B6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1E6D58-02CA-4F8C-A0B1-9B7174A0B6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1E6D58-02CA-4F8C-A0B1-9B7174A0B6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71018517-0C21-4CD0-8830-1A4AF5E3A2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71018517-0C21-4CD0-8830-1A4AF5E3A2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71018517-0C21-4CD0-8830-1A4AF5E3A2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71018517-0C21-4CD0-8830-1A4AF5E3A2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
