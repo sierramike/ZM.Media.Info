@@ -17,7 +17,6 @@ ZM Media Info will wrap all calls to the MediaInfo library and put every file de
 	var MI = new ZM.Media.Info.MediaInfoWrapper();
 	var mfi = MI.Read("MyFile.mkv");
 	txtDetails.Text = mfi.Display().Replace("\n", "\r\n");
-
 ```
 
 The Read() method called on the wrapper will return an object of type "MediaFileInfo".
